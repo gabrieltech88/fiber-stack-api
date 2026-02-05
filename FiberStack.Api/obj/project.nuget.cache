@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yKQcH7Qr2xs=",
+  "success": true,
+  "projectFilePath": "/Users/gabriel/Desktop/Applications/fiber-stack-api/FiberStack.Api/FiberStack.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/gabriel/.nuget/packages/microsoft.aspnetcore.openapi/10.0.1/microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "/Users/gabriel/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
