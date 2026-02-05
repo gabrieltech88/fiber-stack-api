@@ -1,5 +1,5 @@
 
-namespace FiberStack.Api.Data.Models;
+namespace FiberStack.Api.Domain.Entities;
 public class Acesso
 {
     public int Id { get; set; }

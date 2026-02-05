@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using FiberStack.Api.Data.Models;
+using FiberStack.Api.Domain.Entities;
 
-namespace FiberStack.Api.Data;
+namespace FiberStack.Api.Infrastructure.Context;
 
 public class FiberStackDbContext : DbContext
 {

@@ -1,9 +1,9 @@
 using Pomelo.EntityFrameworkCore.MySql;
-using FiberStack.Api.Data;
+using FiberStack.Api.Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
-using FiberStack.Api.Data.Models;
-using FiberStack.Api.Interfaces;
-using FiberStack.Api.Repository;
+using FiberStack.Api.Domain.Entities;
+using FiberStack.Api.Domain.Interfaces;
+using FiberStack.Api.Infrastructure.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 

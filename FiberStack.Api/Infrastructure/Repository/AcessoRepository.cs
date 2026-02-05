@@ -1,9 +1,9 @@
-using FiberStack.Api.Data;
-using FiberStack.Api.Data.Models;
-using FiberStack.Api.Interfaces;
+using FiberStack.Api.Infrastructure.Context;
+using FiberStack.Api.Domain.Entities;
+using FiberStack.Api.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 
-namespace FiberStack.Api.Repository;
+namespace FiberStack.Api.Infrastructure.Repository;
 
 public class AcessoRepository : IRepository<Acesso>
 {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiberStack.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa193ba5b957a2577c4729dd7d91d00d71fc4e98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6f332accb4ca8c51ef5f9b5ec8f6bf4e30bf629")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiberStack.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiberStack.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

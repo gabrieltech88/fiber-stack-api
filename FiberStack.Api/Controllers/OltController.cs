@@ -1,7 +1,7 @@
-using FiberStack.Api.Data.Models;
+using FiberStack.Api.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
-using FiberStack.Api.Repository;
-using FiberStack.Api.Interfaces;
+using FiberStack.Api.Infrastructure.Repository;
+using FiberStack.Api.Domain.Interfaces;
 
 namespace FiberStack.Api.Controllers;
 
