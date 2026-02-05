@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace FiberStack.Api.Data.Models;
+namespace FiberStack.Api.Domain.Entities;
 
 public class Olt
 {
